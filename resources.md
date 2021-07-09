@@ -6,9 +6,11 @@ Cretacolor - https://www.cretacolor.com/en/passion-en/umweltschutz/
 
 Dixon Ticonderoga - https://dixonticonderogacompany.com/terracycle/
 
-Dynasty Brush Company (FM Brush) - https://dynastybrush.com/company/ https://www.fmbrush.com/company/
+Dynasty Brush Company - https://dynastybrush.com/company/
 
 Faber Castell - https://www.fabercastell.com/pages/sustainability
+
+FM Bush Company (Dynasty Brush Co. parent) - https://www.fmbrush.com/company/
 
 General Pencil Company - https://www.generalpencil.com/values.html
 
