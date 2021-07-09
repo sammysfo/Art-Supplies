@@ -1,5 +1,7 @@
 Arches - https://arches-papers.com/arches-vs-sustainable-development/
 
+Canson - https://en.canson.com/commitments/combating-climate-change
+
 Faber Castell - https://www.fabercastell.com/pages/sustainability
 
 General Pencil Company - https://www.generalpencil.com/values.html
