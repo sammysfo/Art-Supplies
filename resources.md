@@ -12,6 +12,8 @@ Faber Castell - https://www.fabercastell.com/pages/sustainability
 
 General Pencil Company - https://www.generalpencil.com/values.html
 
+Golden Paints - https://goldenpaints.com/healthsafety_health_index
+
 Montana Spray Paint - https://www.montana-cans.com/en/safety-environment
 
 Staedtler - https://www.staedtler.com/intl/en/company/about-staedtler/sustainability-and-protection-of-the-environment/
