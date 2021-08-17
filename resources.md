@@ -1,10 +1,10 @@
 *    [Arches](https://arches-papers.com/arches-vs-sustainable-development/)
 
-[Canson](https://en.canson.com/commitments/combating-climate-change)
+*    [Canson](https://en.canson.com/commitments/combating-climate-change)
 
-[Cretacolor](https://www.cretacolor.com/en/passion-en/umweltschutz/)
+*    [Cretacolor](https://www.cretacolor.com/en/passion-en/umweltschutz/)
 
-Dixon Ticonderoga - https://dixonticonderogacompany.com/terracycle/
+*    [Dixon Ticonderoga](https://dixonticonderogacompany.com/terracycle/)
 
 Dynasty Brush Company - https://dynastybrush.com/company/
 
