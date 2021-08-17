@@ -1,4 +1,4 @@
-# Sustainable-Supplies
+# Sustainable Supplies
 
 # About
 
