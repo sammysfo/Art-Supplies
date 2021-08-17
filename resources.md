@@ -1,4 +1,4 @@
-[Arches](https://arches-papers.com/arches-vs-sustainable-development/)
+*    [Arches](https://arches-papers.com/arches-vs-sustainable-development/)
 
 [Canson](https://en.canson.com/commitments/combating-climate-change)
 
