@@ -3,7 +3,7 @@
 # About
 
 # Resources
-[Link to resources](./resources.html).
+[Link to resources](./resources.md)
 
 # Examples
 
