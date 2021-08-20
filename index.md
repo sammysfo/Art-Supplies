@@ -2,8 +2,7 @@
 
 # About
 
-# Resources
-Test [Link to resources](./resources.md)
+# [Resources](./resources.md)
 
 # Examples
 
