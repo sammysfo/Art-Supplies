@@ -1,18 +1,9 @@
 *    [Arches](https://arches-papers.com/arches-vs-sustainable-development/)
-<<<<<<< HEAD
 
-<<<<<<< HEAD
-[Backdrop](https://www.backdrophome.com/pages/about)
- - [Climate Neutral Certification](https://www.climateneutral.org/brand/backdrop)
-
-[Canson](https://en.canson.com/commitments/combating-climate-change)
-=======
-*    [Canson](https://en.canson.com/commitments/combating-climate-change)
->>>>>>> 65e066afc57e4d68599de4094f64c02607e6c4b0
-=======
+*    [Backdrop](https://www.backdrophome.com/pages/about)
+     - [Climate Neutral Certification](https://www.climateneutral.org/brand/backdrop)
 
 *    [Canson](https://en.canson.com/commitments/combating-climate-change)
->>>>>>> 65e066afc57e4d68599de4094f64c02607e6c4b0
 
 *    [Cretacolor](https://www.cretacolor.com/en/passion-en/umweltschutz/)
 
