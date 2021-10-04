@@ -26,6 +26,8 @@ sustainability efforts, or submitted information to us about their efforts:
 
 - [Faber Castell](https://www.fabercastell.com/pages/sustainability)
 
+- [Fabriano](https://www.fabriano.com/en/326/ecology)
+
 - [FM Bush Company](https://www.fmbrush.com/company/) (Dynasty Brush Co. parent)
 
 - [Gamblin](https://gamblincolors.com/reclaimed-earth-colors/)
