@@ -1,6 +1,6 @@
 # Sustainable Supplies
 
-# About
+# [About](./about.md)
 
 # [Resources](./resources.md)
 
