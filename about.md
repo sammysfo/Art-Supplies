@@ -1,7 +1,6 @@
 This database strives to be a collection of statements or information about the
-environmental/conservation efforts that art and design supply companies
-(manufactures, resellers, vendors) are undertaking in order to combat climate
-change.
+environmental/conservation efforts that art and design supply manufactures are
+undertaking in order to combat climate change.
 
 It is not a materials database, rather a complimentary collection to supplement
 some of the information that can be found in the outstanding resources below:

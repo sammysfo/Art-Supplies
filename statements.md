@@ -1,3 +1,7 @@
+The following companies all have discoverable information online about their
+sustainability efforts, or submitted information to us about their efforts.
+Below are those resources:
+
 *    [Arches](https://arches-papers.com/arches-vs-sustainable-development/)
 
 *    [Backdrop](https://www.backdrophome.com/pages/about)
