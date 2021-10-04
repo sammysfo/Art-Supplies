@@ -43,6 +43,6 @@ sustainability efforts, or submitted information to us about their efforts:
 
 - [Winsor & Newton](https://www.winsornewton.com/na/heritage/our-ethics/)
 
-_Have an addition?_ <a href="mailto:ourcityourmayor@gmail.com?Subject=Addition%20to%20statements%database">_Contact us_</a> 
+_Have an addition?_ <a href="mailto:ourcityourmayor@gmail.com?Subject=Addition%20to%20statements%20database">_Contact us_</a> 
 
 [back](./)
