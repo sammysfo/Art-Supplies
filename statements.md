@@ -2,7 +2,8 @@ The following companies all have discoverable information online about their
 sustainability efforts, or submitted information to us about their efforts:
 
 *    [Arches](https://arches-papers.com/arches-vs-sustainable-development/)
-*    [Backdrop](https://www.backdrophome.com/pages/about) / [Backdrop's Climate Neutral Certification](https://www.climateneutral.org/brand/backdrop)
+*    [Backdrop](https://www.backdrophome.com/pages/about)
+ *   [Backdrop's Climate Neutral Certification](https://www.climateneutral.org/brand/backdrop)
 *    [Canson](https://en.canson.com/commitments/combating-climate-change)
 *    [Cretacolor](https://www.cretacolor.com/en/passion-en/umweltschutz/)
 *    [Dixon Ticonderoga](https://dixonticonderogacompany.com/terracycle/)
