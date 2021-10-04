@@ -2,9 +2,12 @@ This is a list of companies who have readily available 'about us' type
 information, but no easily discoverable statements about their sustainability
 or climate efforts.
 
-Using our example form email, these companies should be contacted to see if
+Using our example form email, these companies could be contacted to see if
 they have any information to add to the 'statements' database.
 
+- [ArtBin](https://www.artbin.com/about-artbin)
+- [Art Spectrum](https://artspectrum.com.au/about-us/)
+- [Charbonnel](http://www.charbonnelshop.fr/societe-charbonnel)
 - [Da Vinci](https://www.davincipaints.com/aboutus.asp)
 - [Decoart](https://decoart.com/company)
 - [Enkaustikos](https://www.encausticpaints.com/about)
@@ -17,6 +20,7 @@ they have any information to add to the 'statements' database.
 - [Sakura](https://www.sakuraofamerica.com/about/sakura-celebrating-100-years/)
 - [Sennelier](https://www.sennelier.fr/Une-histoire_54.html)
 - [Speedball](https://www.speedballart.com/about-us/sap-history/)
+- [Takach Press](https://www.takachpress.com/us/index.htm)
 
 _Have an addition?_ <a href="mailto:ourcityourmayor@gmail.com?Subject=Addition%20to%20pending%20companies">_Contact us_</a>
 

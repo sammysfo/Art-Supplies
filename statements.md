@@ -1,7 +1,15 @@
 The following companies all have discoverable information online about their
 sustainability efforts, or submitted information to us about their efforts:
 
+- [Amaco](https://s3.amazonaws.com/amacobrent/section_images/attachments/2934/original_Socially_Responsible_Manufacturing_.pdf?1433186740)
+
+- [American Easel](https://americaneasel.com/about-us.aspx)
+
+- [Ampersand Art](https://ampersandart.com/we-care-about-the-environment.php)
+
 - [Arches](https://arches-papers.com/arches-vs-sustainable-development/)
+
+- [Awagami](https://awagami.com/pages/about-us)
 
 - [Backdrop](https://www.backdrophome.com/pages/about)
   - [Backdrop's Climate Neutral Certification](https://www.climateneutral.org/brand/backdrop)
@@ -13,6 +21,8 @@ sustainability efforts, or submitted information to us about their efforts:
 - [Dixon Ticonderoga](https://dixonticonderogacompany.com/terracycle/)
 
 - [Dynasty Brush Company](https://dynastybrush.com/company/)
+
+- [Edding](https://www.edding.com/company/sustainability/environment/)
 
 - [Faber Castell](https://www.fabercastell.com/pages/sustainability)
 
@@ -26,6 +36,8 @@ sustainability efforts, or submitted information to us about their efforts:
 - [Golden Paints](https://goldenpaints.com/healthsafety_health_index)
 
 - [Montana Spray Paint](https://www.montana-cans.com/en/safety-environment)
+
+- [Royal Talens](https://www.royaltalens.com/en/about-us/sustainability/)
 
 - [Staedtler](https://www.staedtler.com/intl/en/company/about-staedtler/sustainability-and-protection-of-the-environment/)
 
