@@ -9,6 +9,8 @@ sustainability efforts, or submitted information to us about their efforts:
 
 - [Arches](https://arches-papers.com/arches-vs-sustainable-development/)
 
+- [Artline](https://www.artlineworld.com/about_us/environment/)
+
 - [Awagami](https://awagami.com/pages/about-us)
 
 - [Backdrop](https://www.backdrophome.com/pages/about)
@@ -23,6 +25,8 @@ sustainability efforts, or submitted information to us about their efforts:
 - [Dynasty Brush Company](https://dynastybrush.com/company/)
 
 - [Edding](https://www.edding.com/company/sustainability/environment/)
+
+- [EnvironMolds](https://www.artmolds.com/about-us)
 
 - [Faber Castell](https://www.fabercastell.com/pages/sustainability)
 
