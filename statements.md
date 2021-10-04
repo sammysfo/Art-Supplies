@@ -1,6 +1,5 @@
 The following companies all have discoverable information online about their
-sustainability efforts, or submitted information to us about their efforts.
-Below are those resources:
+sustainability efforts, or submitted information to us about their efforts:
 
 *    [Arches](https://arches-papers.com/arches-vs-sustainable-development/)
 
