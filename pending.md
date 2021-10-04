@@ -18,4 +18,6 @@ they have any information to add to the 'statements' database.
 - [Sennelier](https://www.sennelier.fr/Une-histoire_54.html)
 - [Speedball](https://www.speedballart.com/about-us/sap-history/)
 
+_Have an addition?_ <a href="mailto:ourcityourmayor@gmail.com?Subject=Addition%20to%20pending%companies">_Contact us_</a>
+
 [back](./)
