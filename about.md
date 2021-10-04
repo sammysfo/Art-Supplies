@@ -12,6 +12,6 @@ some of the information that can be found in the outstanding resources below:
 
 *     [Gallery Climate Coalition's carbon calculator](https://galleryclimatecoalition.org/carbon-calculator/)
 
-*     [Climate Neutral certified brands databse](https://www.climateneutral.org/certified-brands)
+*     [Climate Neutral certified brands database](https://www.climateneutral.org/certified-brands)
 
 [back](./)
