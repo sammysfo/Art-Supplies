@@ -1,12 +1,6 @@
-# Sustainable Supplies
+Sustainable Supplies
 
-# About
+A simple github pages style resource list of art and design supply company
+statements. 
 
-# Resources
-[Art & Climate Action][aca:site]
-
-# Examples
-
-
-
-[aca:site] - https://artandclimateaction.org
+Any help appreciated, pull requests promptly looked into.
