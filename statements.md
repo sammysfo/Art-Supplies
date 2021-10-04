@@ -16,6 +16,7 @@
 *    [FM Bush Company](https://www.fmbrush.com/company/) (Dynasty Brush Co. parent)
 
 *    [Gamblin](https://gamblincolors.com/reclaimed-earth-colors/)
+     - [Gamblin's email to us about sustainability efforts](./gamblin.txt)
 
 *    [General Pencil Company](https://www.generalpencil.com/values.html)
 
