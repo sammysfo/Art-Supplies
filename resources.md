@@ -4,8 +4,8 @@
 
 *     [Climate Neutral certified brands database](https://www.climateneutral.org/certified-brands)
 
-*     [The Art and Creative Materials Institute certified products database]https://acmiart.org/productlist
+*     [The Art and Creative Materials Institute certified products database](https://acmiart.org/productlist)
 
-*     [cepe.org sustainability charter](https://lascaux.ch/dbFile/4843/u-f536/u-f536/Charter_Sustainability.pdf)
+*     [European Council of the Paint, Printing Ink and Artists Colours Industry sustainability charter](https://lascaux.ch/dbFile/4843/u-f536/u-f536/Charter_Sustainability.pdf)
 
 [back](./)
