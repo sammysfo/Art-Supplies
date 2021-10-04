@@ -37,6 +37,8 @@ sustainability efforts, or submitted information to us about their efforts:
 
 - [Golden Paints](https://goldenpaints.com/healthsafety_health_index)
 
+- [Lascaux](https://lascaux.ch/en/about-us)
+
 - [Montana Spray Paint](https://www.montana-cans.com/en/safety-environment)
 
 - [Royal Talens](https://www.royaltalens.com/en/about-us/sustainability/)

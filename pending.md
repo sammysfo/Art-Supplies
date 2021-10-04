@@ -16,6 +16,7 @@ they have any information to add to the 'statements' database.
 - [Grumbacher](http://grumbacher.chartpak.com/about/)
 - [Higgins Inks](https://www.higginsinks.com/about-us)
 - [Holbein Artists Materials](https://www.holbeinartistmaterials.com/about-us/)
+- [Isabey](https://isabey-brushes.com/en/the-brand/)
 - [Paper Mate](https://www.papermate.com/about-us.html)
 - [Sakura](https://www.sakuraofamerica.com/about/sakura-celebrating-100-years/)
 - [Sennelier](https://www.sennelier.fr/Une-histoire_54.html)
